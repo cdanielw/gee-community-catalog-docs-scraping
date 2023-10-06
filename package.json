@@ -1,0 +1,16 @@
+{
+    "name": "gee-community-catalog-docs-scraping",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "rxjs": "^7.8.1",
+        "simple-git": "^3.20.0"
+    },
+    "devDependencies": {
+        "eslint": "^8.50.0"
+    }
+}
