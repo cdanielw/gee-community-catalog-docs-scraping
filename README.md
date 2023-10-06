@@ -2,7 +2,7 @@
 
 Execute `npm install`, then run the script with `node main.js`. 
 
-This will clone the awesome-gee-community-datasets repo is cloned (or pulled) into `output/awesome-gee-community-datasets`. Assets not found in the docs, or referenced in multiple files, are outputted in the console. Finally, `output/community_datasets.json` is outputted, with a `docs` key in every asset where a match was made.
+This will clone the https://github.com/samapriya/awesome-gee-community-datasets repo into `output/awesome-gee-community-datasets` (or pull it if it already exists). Assets not found in the docs, or referenced in multiple files, are outputted in the console. Finally, `output/community_datasets.json` is written, with a `docs` key in every asset where a match was made.
 
 The script expects to be running on MacOS or Linux - it expects grep to be available.
 
